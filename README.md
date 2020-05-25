@@ -1,6 +1,6 @@
 # discord-bot-app
 
-# Installing Library
+## Installing Library
 
 python3 -m pip install -U discord.py
 
