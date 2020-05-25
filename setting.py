@@ -1,4 +1,4 @@
 import yaml
 
-stream = open('setting-sample.yml', 'r')
+stream = open('setting.yml', 'r')
 setting = yaml.load(stream, Loader=yaml.FullLoader)
